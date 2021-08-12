@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucianoRochaDev
 - 👀 I’m interested in Web/Mobile Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me luciano.rocha.dev@gmail.com
+- 💞️ I’m looking to expose my learnings
+- 📫 How to reach me - luciano.rocha.dev@gmail.com
 
 <!---
 LucianoRochaDev/LucianoRochaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
