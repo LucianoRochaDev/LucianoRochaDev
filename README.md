@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucianoRochaDev
 - 👀 I’m interested in Web/Mobile Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to expose my learnings
 - 📫 How to reach me:<br/>
 - ---> luciano.rocha.dev@gmail.com
