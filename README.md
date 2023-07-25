@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LucianoRochaDev
-- 👀 I’m interested in Web/Mobile Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to expose my learnings
+- 💻 I’m a Front-end Developer
+- 🧑‍💼 I’m working with React and Typescript
 - 📫 How to reach me:<br/>
 - ---> luciano.rocha.dev@gmail.com
 - ---> https://www.linkedin.com/in/luciano-rocha-cunha-aba70085/
